@@ -27,16 +27,16 @@ require (
 	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
 	github.com/moul/flexyaml v0.0.0-20171225152558-f458bfa8afe2
 	github.com/pkg/errors v0.9.1
-	github.com/shirou/gopsutil v3.21.11+incompatible
+	github.com/shirou/gopsutil v3.22.2+incompatible
 	github.com/smartystreets/goconvey v1.7.2
-	github.com/spf13/cobra v1.2.1
+	github.com/spf13/cobra v1.3.0
 	github.com/spf13/pflag v1.0.5
-	github.com/spf13/viper v1.8.1
+	github.com/spf13/viper v1.10.1
 	github.com/tklauser/go-sysconf v0.3.9 // indirect
 	github.com/urfave/cli v1.22.5
 	github.com/yusufpapurcu/wmi v1.2.2 // indirect
-	go.uber.org/zap v1.19.1
-	golang.org/x/crypto v0.0.0-20201112155050-0c6587e931a9
-	golang.org/x/net v0.0.0-20210405180319-a5a99cb37ef4
-	golang.org/x/time v0.0.0-20200630173020-3af7569d3a1e
+	go.uber.org/zap v1.21.0
+	golang.org/x/crypto 86341886e292
+	golang.org/x/net 27dd8689420f
+	golang.org/x/time 0e9765cccd65
 )
